@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinem-ay
 - 🏫 I'm currently studying Psychology at University of Warsaw, and specializing in Business Psychology
-- 👀 I’m interested in data analysis, data visualization, video games, game development, pixel art, psychology, marketing and advertising, and marketing research
-- 🌱 I’m currently learning Python, SAS, Raspberry Pi, Aseprite
+- 👀 I’m interested in python programming, back-end development, data and statistical analysis, marketing reserach, psychology, and video games
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: sinem.ayyildiz98@gmail.com
 - 🖥️ How to see my projects and project ideas: https://sinem-ay.github.io/github-page/ (Page is not finished yet!)
 <!---
